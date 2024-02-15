@@ -1,0 +1,14 @@
+D:\2DAM\PSP\UF1\ServerSocketProva\ServerSocketProva\bin\Debug\net8.0\ServerSocketProva.exe
+D:\2DAM\PSP\UF1\ServerSocketProva\ServerSocketProva\bin\Debug\net8.0\ServerSocketProva.deps.json
+D:\2DAM\PSP\UF1\ServerSocketProva\ServerSocketProva\bin\Debug\net8.0\ServerSocketProva.runtimeconfig.json
+D:\2DAM\PSP\UF1\ServerSocketProva\ServerSocketProva\bin\Debug\net8.0\ServerSocketProva.dll
+D:\2DAM\PSP\UF1\ServerSocketProva\ServerSocketProva\bin\Debug\net8.0\ServerSocketProva.pdb
+D:\2DAM\PSP\UF1\ServerSocketProva\ServerSocketProva\obj\Debug\net8.0\ServerSocketProva.GeneratedMSBuildEditorConfig.editorconfig
+D:\2DAM\PSP\UF1\ServerSocketProva\ServerSocketProva\obj\Debug\net8.0\ServerSocketProva.AssemblyInfoInputs.cache
+D:\2DAM\PSP\UF1\ServerSocketProva\ServerSocketProva\obj\Debug\net8.0\ServerSocketProva.AssemblyInfo.cs
+D:\2DAM\PSP\UF1\ServerSocketProva\ServerSocketProva\obj\Debug\net8.0\ServerSocketProva.csproj.CoreCompileInputs.cache
+D:\2DAM\PSP\UF1\ServerSocketProva\ServerSocketProva\obj\Debug\net8.0\ServerSocketProva.dll
+D:\2DAM\PSP\UF1\ServerSocketProva\ServerSocketProva\obj\Debug\net8.0\refint\ServerSocketProva.dll
+D:\2DAM\PSP\UF1\ServerSocketProva\ServerSocketProva\obj\Debug\net8.0\ServerSocketProva.pdb
+D:\2DAM\PSP\UF1\ServerSocketProva\ServerSocketProva\obj\Debug\net8.0\ServerSocketProva.genruntimeconfig.cache
+D:\2DAM\PSP\UF1\ServerSocketProva\ServerSocketProva\obj\Debug\net8.0\ref\ServerSocketProva.dll
